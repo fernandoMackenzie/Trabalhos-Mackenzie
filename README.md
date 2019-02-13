@@ -1,2 +1,2 @@
 # Trabalhos-Mackenzie
-Exercícios de laboratório 
+Exercícios realizados em laboratório e em sala de aula
